@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I'm Joshua Ley Gonzaga Mujar - 22 - Future Senior Developer  
 🔭 I’m currently Studying on STI College Ortigas-Cainta <br>🤝 I’m an aspiring Web/Mobile Developer <br>🌱 I’m currently learning Mobile development using React Native<br>⚡ Fun fact: Coding isn't what I want :DD
 
 
