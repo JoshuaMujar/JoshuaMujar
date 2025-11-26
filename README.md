@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently Studying on STI College Ortigas-Cainta <br>🤝 I’m an aspiring Web/Mobile Developer <br>🌱 I’m currently learning Mobile development using React Native<br>⚡ Fun fact: Coding isn't what I want :DD
 
 
 ## 🌐 Socials:
