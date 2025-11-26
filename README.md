@@ -1,6 +1,8 @@
 # 💫I'm Joshua Ley Gonzaga Mujar 
 🔭 I’m currently Studying on STI College Ortigas-Cainta <br>🤝 I’m an aspiring Web/Mobile Developer <br>🌱 I’m currently learning Mobile development using React Native<br>⚡ Fun fact: Coding isn't what I want :DD
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-mujar-966b0a397/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshualeymujar@gmail.com) 
@@ -21,7 +23,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=JoshuaMujar&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
-<br><br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
