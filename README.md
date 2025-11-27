@@ -1,5 +1,5 @@
 # 💫I'm Joshua Ley Gonzaga Mujar 
-🔭 I’m currently Studying on STI College Ortigas-Cainta <br>🤝 I’m an aspiring Web/Mobile Developer <br>🌱 I’m currently learning Mobile development using React Native<br>⚡ Fun fact: Coding isn't what I want :DD
+
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 <br><br>
